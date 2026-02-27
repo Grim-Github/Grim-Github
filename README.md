@@ -2,8 +2,6 @@
 ──────────────────────────────────
 
 ## ⚙️ Stack
-- **Languages:** C#, JavaScript, C++ 
-- **Game Dev:** Unity, gameplay systems, AI logic
-- **Web:** Vite, React, Node.js, Nginx
-- **Infra & Tools:** Git, Linux,
+- **Languages:** C#, Python, C++ 
+- **Game Dev:** Unity
 ---
